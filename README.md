@@ -19,18 +19,20 @@ My brief was to create two sets of traffic lights which take turns in allowing t
 ## Circuitry
 
 <p align="center">
- <img src="./Images/CircuitDiagram.png" />
+ <img src="./Images/CircuitDiagram.PNG" />
 </p>
 <p align="center">
  <img src="./Images/FinalCircuit2.JPG" width="400"/>
 </p>
 
 
+
 ## Flow Chart
 
 <p align="center">
- <img src="./Images/FlowChart.png" />
+ <img src="./Images/FlowChart.PNG" />
 </p>
+
 
 
 ## Further Work
